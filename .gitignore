@@ -50,3 +50,6 @@ local.properties
 
 #H2 database
 *.db
+
+*.ipr
+*.iws
