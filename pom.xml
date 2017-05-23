@@ -32,10 +32,6 @@
     <inceptionYear>2014</inceptionYear>
     <url>http://wso2.com</url>
 
-    <prerequisites>
-        <maven>3.0.5</maven>
-    </prerequisites>
-
     <licenses>
         <license>
             <name>The Apache Software License, Version 2.0</name>
